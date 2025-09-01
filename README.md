@@ -1,6 +1,8 @@
 # Chaos in the Double Pendulum  
 **Theoretical Physics Group Project** – January 31, 2023  
-This repository contains our report and presentations.  
+This repository contains our code.
+Paper Available: [10.13140/RG.2.2.13267.03365](https://www.researchgate.net/publication/395134590_Chaos_in_the_Double_Pendulum)
+
 
 ## University of Glasgow – Group Project (PHYS4029P)  
 ### Co-developed by:  
